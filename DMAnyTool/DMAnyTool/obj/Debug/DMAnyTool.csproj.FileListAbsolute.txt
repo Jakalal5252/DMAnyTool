@@ -1,0 +1,14 @@
+c:\users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\bin\Debug\DMAnyTool.dll
+c:\users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\bin\Debug\DMAnyTool.pdb
+c:\users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\obj\Debug\DMAnyTool.dll
+c:\users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\obj\Debug\DMAnyTool.pdb
+C:\Users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\obj\Debug\DMAnyTool.csprojResolveAssemblyReference.cache
+C:\Users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\obj\Debug\DMAnyTool.dll.mdb
+C:\Users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\bin\Debug\DMAnyTool.dll.mdb
+C:\Users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\obj\Debug\DMAnyTool.dll.mdb
+C:\Users\jsvan\documents\visual studio 2015\Projects\DMAnyTool\DMAnyTool\DMAnyTool\bin\Debug\DMAnyTool.dll.mdb
